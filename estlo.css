@@ -1,0 +1,32 @@
+.bordar1{
+  border: solid 2px blueviolet;
+  margin-left: 50px;
+
+}
+
+.bordar2{
+    border: dotted 2px yellow;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-top:  50px;
+    margin-bottom: 50 px;
+  }
+
+  
+.bordar3{
+    border: dashed 5px brown;
+    margin: 50px 75px 100px 50px;
+    padding: 15px 25px 15px 25px;
+  }
+h2{
+    color: blue;font-family: Verdana;font-size: 16px;
+    border: solid 2px  blueviolet;
+}
+
+div{
+
+  color:brown;font-family: Verdana;font-size: 20px; 
+  border: dashed 2px green; 
+}
